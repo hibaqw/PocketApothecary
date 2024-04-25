@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "200915176413",
+    "project_id": "pocketapothecary-fd7bf",
+    "storage_bucket": "pocketapothecary-fd7bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200915176413:android:599aa440e596115a728434",
+        "android_client_info": {
+          "package_name": "com.example.pocketapothecary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200915176413-ckighkouqk00f51rl108k425m1f00k5d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pocketapothecary",
+            "certificate_hash": "714c05eeaf42749906383ab65bdd94e4e3b047b1"
+          }
+        },
+        {
+          "client_id": "200915176413-dlia5chhs3283fq88md192qsju407g3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq1fREuv4gHzLfOojL_r6vlk5HNXO3gw4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200915176413-dlia5chhs3283fq88md192qsju407g3l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

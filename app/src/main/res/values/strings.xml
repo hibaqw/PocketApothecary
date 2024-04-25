@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PocketApothecary</string>
+    <string name="splash_text">Take Ownership Over Your Medicine Cabinet One Pill At A Time</string>
+    <string name="signup_login_text">having problems with forgetting when to take your medications? we’ve got you covered.</string>
+    <string name="title_activity_login">Login Activity</string>
+    <string name="title_activity_registration">Login Activity</string>
+    <string name="welcome_to">Welcome to Pocket Apothecary!</string>
+    <string name="name">name</string>
+    <string name="last_name">last name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="signup">Sign Up</string>
+    <string name="signin">Sign In</string>
+    <string name="pill_cabinent">Pill Cabinet</string>
+    <string name="app_logo">Pocket Apothecary logo</string>
+</resources>
