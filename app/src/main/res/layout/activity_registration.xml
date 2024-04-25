@@ -147,7 +147,7 @@
         android:textAllCaps="false"
         android:textColor="@color/black"
         android:textSize="25sp"
-        android:layout_below="@id/login_form_layout"/>
+        android:layout_below="@id/signup_form_layout"/>
 
 
 </RelativeLayout>
